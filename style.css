@@ -1,0 +1,39 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: teal;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+.container {
+    background-color: whitesmoke;
+    text-align: center;
+    width: fit-content;
+    padding: 20px;
+    margin: 15px;
+}
+
+.box {
+    justify-content: space-between;
+    display: flex;
+    margin: 15px;    
+    padding: 20px;
+}
+
+.blue {
+    background-color: rgb(9, 183, 252);
+}
+
+.pink {
+    background-color: palevioletred;
+    justify-content: space-evenly;
+}
+
